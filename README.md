@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 🦜 Kuba Pieńkowski, student of the Lublin University of Technology</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuba27x&label=Profile%20views:&color=eca33c&style=flat" alt="kuba27x" /> </p>
 
-![github_cover_banner](file:///C:/Users/kuba_/Downloads/%E2%80%9CFirst,%20solve%20the%20problem.%20Then,%20write%20the%20code.%E2%80%9D.jpg)
+![github_cover_banner](%E2%80%9CFirst,%20solve%20the%20problem.%20Then,%20write%20the%20code.%E2%80%9D.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate computer science student💻 and gym enjoyer💪.
