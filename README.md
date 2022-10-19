@@ -5,7 +5,7 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate computer science student💻 and gym enjoyer💪.
-    I love learning new programming languages and technologies👾. 
+    I love learning new programming languages and technologies. 
 <br>
 <br>
 <div align="center">
